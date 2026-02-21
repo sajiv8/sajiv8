@@ -6,9 +6,9 @@
 </p>
 
 ---
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnBqODFjOTM5NGx6bGM1MDdqaWRqaHBzbW1xYzE3Z3F4c2g2bXV1dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HyOOyynWxMxig/giphy.gif" width="600"/>
-</p>
+</p> -->
 ## 🚀 About Me
 - 🎓 CSE Undergraduate
 - 💻 Interested in Competetive programming !
