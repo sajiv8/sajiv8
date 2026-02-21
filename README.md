@@ -1,20 +1,27 @@
-## Hey there 👋
+<h1 align="center">Hi 👋, I'm Rajh Sajiv</h1>
+<h3 align="center">A passionate CS Engineer from Sri Lanka 🇱🇰</h3>
 
-<!--
-**sajiv8/sajiv8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=rajhsajiv&label=Visitors&color=0e75b6&style=flat" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## Im Sajiv
-I am a Computer Science and Engineering student at the University of Moratuwa, passionate about technology and creativity.
-I am also exploring web development and constantly enhancing my programming knowledge. I enjoy solving problems and creating new ideas.
-I combine technical skills with creativity to build impactful solutions. Blending technology and creativity leads to meaningful advancements that help people and drive progress.
+## 🚀 About Me
+- 🎓 CSE Undergraduate
+- 💻 Interested in Competetive programming !
+- 🌱 Currently learning JS releated other languages.
+
+---
+
+## 🛠 Languages and Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,react,js,mysql,git" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajhsajiv&show_icons=true&theme=tokyonight" />
+</p>
